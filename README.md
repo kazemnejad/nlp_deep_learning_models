@@ -1,4 +1,4 @@
-# NLP Deep-learning models
+# NLP Deep Learning models
 This repository is a personal reference for common deep learning models customized for nature languages processing.<br/>
 Implementations is based on starter code provided by standford [cs224n](http://cs224n.stanford.edu/) course assignments.
 
